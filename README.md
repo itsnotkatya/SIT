@@ -19,3 +19,7 @@
 
 ##### Выполняем сортировку третьего файла с помошью команды `sort midpoem.txt | uniq -c | cat > midpoem.txt`. Получаем:
 ![midpoem.txt](midpoem3.png)
+
+##ENV:
+![env.txt](env.png)
+
